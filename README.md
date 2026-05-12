@@ -1,2 +1,16 @@
-# Library-Management-System
-A beginner-friendly Library Management System project using C++ and OOP concepts.
+# Library Management System
+
+A simple Library Management System built using C++.
+
+## Features
+- Add Books
+- Search Books
+- Issue Books
+- Return Books
+
+## Technologies Used
+- C++
+- Object Oriented Programming (OOP)
+
+## Author
+Roshan Gautam
